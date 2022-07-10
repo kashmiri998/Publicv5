@@ -22,7 +22,7 @@ if bit == '64bit':
 
     print("\n\x1b[1;92m Congratulations Beb Your Device Support This Tool\033[1;37m")
 
-    print("          \x1b[1;91m\x1b[1;41m Use Vpn If Tool Run Error! \x1b[0m\n\n") 
+    print("          \x1b[1;91m\x1b[1;43m Use Vpn If Tool Run Error! \x1b[0m\n\n") 
 
     from Publicv5 import login
 
