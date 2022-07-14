@@ -2,7 +2,7 @@ import os
 
 os.system('clear')
 
-x = '>> Script has been permanent deleted and john owner can not more update it'
+x = '\033[1;32m>> Script has been permanent deleted and john owner can not more update it'
 
 y = '>> Thanks for using Younis John tolls'
 
